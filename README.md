@@ -19,4 +19,4 @@
   <a target="_blank" href="https://linkedin.com/in/BaoChn"><img src="https://img.shields.io/badge/领英-BaoChn-blue?style=plastic&logo=Linkedin"/></a>
    </p>
  
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoChn&show_icons=true&theme=cobalt)
+![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoChn&show_icons=true&theme=cobalt)</div>
