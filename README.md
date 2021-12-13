@@ -9,14 +9,15 @@
   🚀 兴趣不详，爱好多样<br>
   🛸 乐于探索，脑洞辽阔</p>
  <p>
-  <a target="_blank" href="https://weibo.com/BaoChn"><img src="https://img.shields.io/badge/微博-宝昌-orange?style=social&logo=SinaWeibo"/></a>
-  <a target="_blank" href="https://A-B.CC/QQ"><img src="https://img.shields.io/badge/QQ-14141522-red?style=social&logo=TencentQQ"/></a>
-  <a target="_blank" href="https://A-B.CC/WC"><img src="https://img.shields.io/badge/微信-BaoChn-green?style=social&logo=WeChat"/></a>
+  <a target="_blank" href="https://weibo.com/BaoChn"><img src="/img/weibo.svg"/></a>
+  <a target="_blank" href="https://A-B.CC/QQ"><img src="/img/QQ.svg"/></a>
+  <a target="_blank" href="https://A-B.CC/WC"><img src="/img/wechat.svg"/></a>
   <br>
-  <a target="_blank" href="https://twitter.com/BaoChn"><img src="https://img.shields.io/badge/TW-BaoChn-blue?style=plastic&logo=Twitter"/></a>
-  <a target="_blank" href="https://instagram.com/baochn/"><img src="https://img.shields.io/badge/IG-BaoChn-ff69b4?style=plastic&logo=Instagram"/></a>
-  <a target="_blank" href="https://t.me/BaoChn"><img src="https://img.shields.io/badge/TG-BaoChn-9cf?style=plastic&logo=Telegram"/></a>
-  <a target="_blank" href="https://linkedin.com/in/BaoChn"><img src="https://img.shields.io/badge/领英-BaoChn-blue?style=plastic&logo=Linkedin"/></a>
+  <a target="_blank" href="https://twitter.com/BaoChn"><img src="/img/twitter.svg"/></a>
+  <a target="_blank" href="https://instagram.com/baochn/"><img src="/img/instagram.svg"/></a>
+  <a target="_blank" href="https://t.me/BaoChn"><img src="/img/telegram.svg"/></a>
+  <a target="_blank" href="https://linkedin.com/in/BaoChn"><img src="/img/linkedin.svg"/></a>
    </p>
  
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoChn&show_icons=true&theme=cobalt)</div>
+![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoChn&show_icons=true&theme=ayu-mirage)
+</div>
