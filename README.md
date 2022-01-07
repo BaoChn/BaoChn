@@ -2,9 +2,8 @@
  <a target="_blank" href="https://a-b.cc">
   <img width="123" height="123" src="/img/avatar.svg" />
  </a>
- <p>BaoChn<br>宝 昌<br>
-  🧑‍🎓 一名大四预备毕业生<br>
-  🏫 身为江服传媒动画魂<br>
+ <p>
+  🧑‍🎓 一只大四预备毕业生<br>
   🛠️ 数字达人，扎实技能<br>
   🚀 兴趣不详，爱好多样<br>
   🛸 乐于探索，脑洞辽阔</p>
